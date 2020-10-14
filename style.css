@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+}
+nav{
+    border: 1px solid rebeccapurple;
+    flex: 1;
+    text-align: right;
+}
+nav ul{
+    border: 1px solid red;
+}
+nav ul li {
+    border: 1px solid black;
+    display: inline-block;
+}
